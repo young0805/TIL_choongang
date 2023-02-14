@@ -1,8 +1,8 @@
-{
+
 	"today" : {
 		"prefix": "tl",
 		"body": [
-			"# DATE: $CURRENT_YEAR.$CURRENT_MONTH.$CURRENT_DATE",
+			"# DATE: $CURRENT_YEAR.$CURRENT_MONTH.$CURRENT_DATE.$CURRENT_DAY_NAME_SHORT",
 			"<hr>",
 			"<br>",
 			"$1## Facts: ",
